@@ -90,9 +90,6 @@ a{
     background-color: #404BBF;
 }
 
-.hidden{
-    display: none;
-}
     
 
 .subtitle{
@@ -146,6 +143,8 @@ a{
     color: #2e2f42;
     margin-top: 24px;
     margin-bottom: 8px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .team-role {
