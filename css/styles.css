@@ -174,7 +174,6 @@ a{
 
 .features-list {
         margin: 0;
-        padding: 0;
         list-style-type: none;
         text-align: center;
 }
@@ -198,7 +197,14 @@ a{
     letter-spacing: 0.02em;
     color: #434455;}
 
-
+.footer-text{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+        background: #2e2f42;
+}
 
 
 
