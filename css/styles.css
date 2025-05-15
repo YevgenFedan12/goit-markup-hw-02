@@ -124,21 +124,20 @@ a{
     color: #2e2f42;
     margin-bottom: 72px;
     letter-spacing: 0.02em;
+    line-height: 1.11;
+    text-transform: capitalize;
 }
 
 .team-list {
     list-style: none;
     margin: 0;
-    /* display/gap/flex - вилучено */
 }
 
 .team-card {
     background-color: #ffffff;
     border: 1px solid #e7e9fc;
     margin-bottom: 24px;
-    /* замість gap */
     text-align: center;
-    /* width, box-shadow, border-radius — не використовуються */
 }
 
 .team-name {
@@ -153,6 +152,8 @@ a{
     font-size: 16px;
     color: #434455;
     margin-bottom: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 
